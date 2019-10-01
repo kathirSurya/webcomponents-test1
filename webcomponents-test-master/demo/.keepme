@@ -1,0 +1,2 @@
+In demo folder, I write cascading style sheets by using gallery.css file and load that file into gallery html file.
+I write java script by using gallery.js file and load that file into gallery html file. And, I load all the images from assets folder.
